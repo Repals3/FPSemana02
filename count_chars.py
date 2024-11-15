@@ -1,4 +1,4 @@
-frase=str(input("uma frase pfv? "))
+frase=str(input())
 
 palavras=frase.split(" ")
 

@@ -1,5 +1,5 @@
-plv1=input("first word? ")
-plv2=input("second word? ")
+plv1=input()
+plv2=input()
 
 intersection=set(plv1) and set(plv2)
 
